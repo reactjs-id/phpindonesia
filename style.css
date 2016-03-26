@@ -413,7 +413,7 @@ pre {
     color: #fff;
     position: relative;
     margin: 0 -15px;
-    background: url(../img/screenphp.png)bottom center no-repeat #569080;
+    background: url('http://react.id/phpindonesia/img/screenphp.png')bottom center no-repeat #569080;
 }
 #lead-section .section-content {
     max-width: 750px;
